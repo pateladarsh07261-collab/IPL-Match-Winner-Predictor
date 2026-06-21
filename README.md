@@ -17,6 +17,8 @@ A Machine Learning project that predicts IPL match winners using historical IPL 
 - Winner Prediction
 - Confidence Score
 
+![IPL Match Winner Predictor](screenshot.png)
+
 ## Model
 Random Forest Classifier
 
